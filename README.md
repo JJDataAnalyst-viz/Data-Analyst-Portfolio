@@ -15,4 +15,4 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJDataAnalyst-viz)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-j%C4%99drych/)
 
-* [Project Bellabeat ENG](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)
+  * [Project Bellabeat ENG](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)
