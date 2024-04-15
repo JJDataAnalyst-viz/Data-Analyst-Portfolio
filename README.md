@@ -12,7 +12,7 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
     
      Project Stages:
     - [Ask](https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_1_Ask/Stage_1_Ask.pdf): Defining business and research questions for data analysis.  Used tool : <img src="https://forum.posit.co/uploads/default/original/3X/7/c/7c46e0e9c8084961f3e598cea366cf64f3031a47.png" width="30">
-    - Prepare: Downloading, organizing, and assessing data for credibility, biases, and compliance with standards. Used tool : <img src="https://forum.posit.co/uploads/default/original/3X/7/c/7c46e0e9c8084961f3e598cea366cf64f3031a47.png"             width="30">     
+    - [Prepare](https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_2_Prepare/Stage_2_Prepare.pdf): Downloading, organizing, and assessing data for credibility, biases, and compliance with standards. Used tool : <img src="https://forum.posit.co/uploads/default/original/3X/7/c/7c46e0e9c8084961f3e598cea366cf64f3031a47.png"             width="30">     
     - <div style="display: flex; align-items: center;">
         <span style="margin-right: 5px;"> Process: Using analytical techniques to explore data and derive insights. Used tools:</span>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" width="30" style="margin-right: 5px;">
