@@ -27,7 +27,7 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" style="margin-right: 5px;">
         <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width="30">
       </div>
-     - <div style="display: flex; align-items: center;">Share: Communicating results through visualizations and reports.
+     - <div style="display: flex; align-items: center;"><a href="https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_5_Share/Stage_5_Share.pdf">Share</a>: Communicating results through visualizations and reports.
           Used tool: 
           <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30" style="margin-left: 5px;">(in progress)
        </div>
