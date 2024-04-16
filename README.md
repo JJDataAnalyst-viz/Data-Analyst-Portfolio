@@ -21,7 +21,7 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
         <img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width="30">
         </div>
     - <div style="display: flex; align-items: center;">
-        <span style="margin-right: 5px;"> Analyze (<a href="https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_4_Analyze/r-analysis-project-bellabeat.ipynb">R</a>/<a href="https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_4_Analyze/analysis.ipynb">Python</a>): Interpreting findings and identifying trends and correlations. Used tools:</span>
+        <span style="margin-right: 5px;"> Analyze (<a href="https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_4_Analyze/r-analysis-project-bellabeat.ipynb">R in progress</a>/<a href="https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_4_Analyze/analysis.ipynb">Python</a>): Interpreting findings and identifying trends and correlations. Used tools:</span>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" width="30" style="margin-right: 5px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eo_circle_light-blue_white_letter-r.svg/1024px-Eo_circle_light-blue_white_letter-r.svg.png" width="30" style="margin-right: 5px;">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" style="margin-right: 5px;">
