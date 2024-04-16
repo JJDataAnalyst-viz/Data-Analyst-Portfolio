@@ -47,6 +47,6 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
  ##
 - Cyclistic bike-share analysis (Planned 04.2024)
 ##
-- 
+- "Suicide Deaths in Poland: Police Statistics Since 2017" - Focused on this project...
 
 
