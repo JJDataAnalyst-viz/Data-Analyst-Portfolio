@@ -31,7 +31,7 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
           Used tool: 
           <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30" style="margin-left: 5px;">
        </div>
-     - <div style="display: flex; align-items: center;">Act: Taking actions based on insights to drive positive outcomes.
+     - <div style="display: flex; align-items: center;"><a href='https://github.com/JJDataAnalyst-viz/Bellabeat_Project/blob/main/Stage_6_Act/Stage_6_Act.pdf'>Act</a>: Taking actions based on insights to drive positive outcomes.
           Used tool: 
           <img src="https://quarto-dev.github.io/quarto-r/logo.png" width="30" style="margin-left: 5px;">
         </div>
