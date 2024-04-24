@@ -45,7 +45,7 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
   - Share: Presenting analysis results to stakeholders through visualizations and reports for easy understanding. Used tool:
     <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="40">
  ##
- - <p> Sales Data & Loyalty Points Analysis for Better Insights </p>
+ - [Sales Data & Loyalty Points Analysis for Better Insights](https://github.com/JJDataAnalyst-viz/Sales_Analysis) <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30">
 
     Delving into comprehensive sales data and loyalty points accumulation, this project aimed to uncover valuable customer insights. Leveraging Python   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-  
        logo-notext.svg/115px-Python-logo-notext.svg.png" width="20" style="margin-right: 5px;"> and MS SQL <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20" style="margin-right: 5px;"> for data 
@@ -54,8 +54,8 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
        for initial data processing, crafted a 
        dynamic dashboard to visualize key metrics and trends for informed decision-making. 
        
-   - EDA (SQL/Python) Analyzing sales data and loyalty points using SQL and Python to uncover insights and patterns for informed decision-making.
-   - Dashboard (Excel) Creating a dynamic visualization tool in Excel to present key metrics and trends derived from the analyzed data for easy interpretation and decision-making.
+   - EDA (<a href='https://github.com/JJDataAnalyst-viz/Sales_Analysis/blob/main/Sales_Analysis/ipynb_checkpoint/Projekt_PAYBACK_Python%26SQL.ipynb'>SQL/Python</a>) Analyzing sales data and loyalty points using SQL and Python to uncover insights and patterns for informed decision-making.
+   - Dashboard (<a href='https://github.com/JJDataAnalyst-viz/Sales_Analysis'>Excel</a>) Creating a dynamic visualization tool in Excel to present key metrics and trends derived from the analyzed data for easy interpretation and decision-making.
  ##
 - Cyclistic bike-share analysis (Planned 04.2024)
 ##
