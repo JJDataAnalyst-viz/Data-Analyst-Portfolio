@@ -38,8 +38,7 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
  ##       
  - [Sales Data & Loyalty Points Analysis for Better Insights](https://github.com/JJDataAnalyst-viz/Sales_Analysis) [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30">](https://github.com/JJDataAnalyst-viz/Sales_Analysis)
 
-    Delving into comprehensive sales data and loyalty points accumulation, this project aimed to uncover valuable customer insights. Leveraging Python   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-  
-       logo-notext.svg/115px-Python-logo-notext.svg.png" width="20" style="margin-right: 5px;"> and MS SQL <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20" style="margin-right: 5px;"> for data 
+    Delving into comprehensive sales data and loyalty points accumulation, this project aimed to uncover valuable customer insights. Leveraging Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" width="20" style="margin-right: 5px;"> and MS SQL <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20" style="margin-right: 5px;"> for data 
        analysis and Excel 
        <img     src='https://camo.githubusercontent.com/b844d1fc21947ee1b38741aed253d6202d5132d0abe77d555ca9b1e914518b70/68747470733a2f2f7261776769742e636f6d2f746865636f746e652f7371756172652d66696c652d69636f6e732f6d61737465722f69636f6e732f657863656c2e737667' width="15" height="15"> 
        for initial data processing, crafted a 
