@@ -1,3 +1,63 @@
+<img src="https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg" width="900" >
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJDataAnalyst-viz%2FData-Analyst-Portfolio&count_bg=%23050A2D&title_bg=%238C2A2A&icon=python.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 🔄 My stack related to data. Subscribe there is constant updates 
+
+> - [ ] For **Data Analyst Portoflio**  please check [Data Analyst Portoflio](https://github.com/JJDataAnalyst-viz/Data-Analyst-Portfolio) repository.
+
+> - [ ] For **Machine Learning**  algorithms please check [Machine Learning](https://github.com/JJDataAnalyst-viz/Small-Machine-Learning-Projects) repository.
+
+> - [ ] For **Data Science**  please check [Data Science](https://github.com/JJDataAnalyst-viz/Data-Science-Portfolio) repository.
+
+> - [ ] For **Data Engineer's Portfolio** please check [Data Engineer's Portfolio](https://github.com/ElizaLo/Computer-Vision) repository.
+
+## Projects
+<img align="left" width="250" height="150" src="https://scontent-waw2-2.xx.fbcdn.net/v/t39.30808-6/271767871_3106535802922669_3111681203566141432_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=2im5PbQmdagQ7kNvgEQSixg&_nc_ht=scontent-waw2-2.xx&oh=00_AYB1uNvgnkqXzNESAl11Smcn_IxUUXbZZ09cV4qmjkxvHg&oe=6646E8B2"> **[Bellabeat Analytics Odyssey: Navigating User Engagement](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
+
+Conducted a detailed analysis of Bellabeat's Google Analytics data to optimize marketing strategies and enhance user engagement for their wellness products. The insights gained will inform targeted approaches for driving business growth and improving customer satisfaction.
+
+#
+
+<img align="left" width="250" height="150" src="https://marketingbinder.com/wp-content/uploads/2021/07/marketing-to-sales-analysis-header-image.jpg"> **[Sales & Loyalty Points Analysis](https://github.com/JJDataAnalyst-viz/Sales_Analysis)**
+
+This project involves analyzing sales data and loyalty points accumulation utilizing Python and MS SQL. It encompasses an Exploratory Data Analysis (EDA) phase to extract insights and a dynamic Excel dashboard for visualizing the findings.
+
+
+#
+
+<img align="left" width="250" height="150" src="https://www.onkonet.pl/images_news/sars_cov_2.jpg"> **[Pandemic Pulse: Exploring COVID-19 in Germany and Italy](https://github.com/archd3sai/News-Articles-Recommendation)**
+ 
+Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Data-Analyst-Portfolio
 My data analyst portfolio highlights my expertise, projects, and insights, demonstrating my capabilities to potential employers or clients.
 
