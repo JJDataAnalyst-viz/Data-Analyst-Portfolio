@@ -31,30 +31,28 @@ This project involves analyzing sales data and loyalty points accumulation utili
 Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
 
 
+#
+
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1200/1*-Oa3eUBRoF4uzvJkp9OV_Q.jpeg"> **[Estimating Taxi Fares: A Regression Modeling Project for New York City TLC](https://github.com/archd3sai/News-Articles-Recommendation)**
 
 
+Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
+
+#
+
+<img align="left" width="250" height="150" src="https://i.insider.com/636944e3113fe1001834d506?width=700"> **[Exploring TikTok: Data Analysis and Predictive Modeling Project](https://github.com/archd3sai/News-Articles-Recommendation)**
 
 
+Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
+
+#
+
+<img align="left" width="250" height="150" src="https://gmbapi.com/wp-content/uploads/2023/12/Waze.jpg"> **[Churn Prevention Project: Analyzing User Behavior for Waze App Optimization](https://github.com/archd3sai/News-Articles-Recommendation)**
 
 
+Embark on a journey to dissect COVID-19 data in Germany and Italy amidst the global panorama. Explore trends in confirmed cases, recoveries, and fatalities, gaining insights to inform strategic responses and public health measures
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br />
 
 
 
