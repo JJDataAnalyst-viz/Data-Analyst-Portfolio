@@ -13,7 +13,7 @@
 > - [ ] For **Data Engineer's Portfolio** please check [Data Engineer's Portfolio](https://github.com/ElizaLo/Computer-Vision) repository.
 
 ## Projects
-<img align="left" width="250" height="150" src="https://scontent-waw2-2.xx.fbcdn.net/v/t39.30808-6/271767871_3106535802922669_3111681203566141432_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=2im5PbQmdagQ7kNvgEQSixg&_nc_ht=scontent-waw2-2.xx&oh=00_AYB1uNvgnkqXzNESAl11Smcn_IxUUXbZZ09cV4qmjkxvHg&oe=6646E8B2"> **[Bellabeat Analytics Odyssey: Navigating User Engagement](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
+<img align="left" width="250" height="150" src="https://scontent-waw2-2.xx.fbcdn.net/v/t39.30808-6/271767871_3106535802922669_3111681203566141432_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OYTVIXKfQKYQ7kNvgFkewvn&_nc_ht=scontent-waw2-2.xx&oh=00_AYCuFbJt8LVfBV0ryrlrrEN0M6mBsjHcaNs3x8OmX2Hqqw&oe=66568272"> **[Bellabeat Analytics Odyssey: Navigating User Engagement](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
 
 Conducted a detailed analysis of Bellabeat's Google Analytics data to optimize marketing strategies and enhance user engagement for their wellness products. The insights gained will inform targeted approaches for driving business growth and improving customer satisfaction.
 
