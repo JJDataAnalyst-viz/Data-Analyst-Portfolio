@@ -94,15 +94,6 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
           <img src="https://quarto-dev.github.io/quarto-r/logo.png" width="30" style="margin-left: 5px;">
         </div>
  ##       
- - [Kings&Generals](https://github.com/JJDataAnalyst-viz/BestLeadersProjectinPowerBI)  <img src="https://c4.wallpaperflare.com/wallpaper/540/309/90/batallion-arrives-wallpaper-preview.jpg" height="30">
-
-  - <span style="font-size: larger;">Prepare, Process and Analyze (<a href="https://github.com/JJDataAnalyst-viz/Project_Covid_19/blob/main/covid-19-Python.ipynb">Python</a>): Gathering and organizing data, analyzing and deriving insights and interpreting findings and drawing conclusions.</span>
-      Used tools: <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25" style="margin-right: 5px;">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="25" style="margin-right: 5px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="25" style="margin-right: 5px;">
-  - Share: Presenting analysis results to stakeholders through visualizations and reports for easy understanding. Used tool:
-    <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="40">
- ##
  - [Sales Data & Loyalty Points Analysis for Better Insights](https://github.com/JJDataAnalyst-viz/Sales_Analysis) [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30">](https://github.com/JJDataAnalyst-viz/Sales_Analysis)
 
     Delving into comprehensive sales data and loyalty points accumulation, this project aimed to uncover valuable customer insights. Leveraging Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" width="20" style="margin-right: 5px;"> and MS SQL <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20" style="margin-right: 5px;"> for data 
