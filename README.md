@@ -13,12 +13,16 @@
 > - [ ] For **Data Engineer's Portfolio** please check [Data Engineer's Portfolio](https://github.com/ElizaLo/Computer-Vision) repository.
 
 ## Projects
-<img align="left" width="250" height="150" src="https://scontent-waw2-2.xx.fbcdn.net/v/t39.30808-6/271767871_3106535802922669_3111681203566141432_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OYTVIXKfQKYQ7kNvgFkewvn&_nc_ht=scontent-waw2-2.xx&oh=00_AYCuFbJt8LVfBV0ryrlrrEN0M6mBsjHcaNs3x8OmX2Hqqw&oe=66568272"> **[Bellabeat Analytics Odyssey: Navigating User Engagement](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*U4x0VzHWrRYZom1zFKQGIQ.png"> **[Bellabeat Analytics Odyssey: Navigating User Engagement](https://github.com/JJDataAnalyst-viz/Bellabeat_Project)**
 
 Conducted a detailed analysis of Bellabeat's Google Analytics data to optimize marketing strategies and enhance user engagement for their wellness products. The insights gained will inform targeted approaches for driving business growth and improving customer satisfaction.
 
 #
+<img align="left" width="250" height="150" src="https://c4.wallpaperflare.com/wallpaper/540/309/90/batallion-arrives-wallpaper-preview.jpg"> **[Royal Profiles Dashboard: Kings and Generals Explorer](https://github.com/JJDataAnalyst-viz/BestLeadersProjectinPowerBI)**
 
+This project features a comprehensive dashboard showcasing profiles of significant kings and generals from different countries. It includes a robust database, advanced data transformation using Power Query and DAX, automation through macros and VBA scripts, and intuitive UI/UX design created with Figma and PowerPoint.
+
+#
 <img align="left" width="250" height="150" src="https://marketingbinder.com/wp-content/uploads/2021/07/marketing-to-sales-analysis-header-image.jpg"> **[Sales & Loyalty Points Analysis](https://github.com/JJDataAnalyst-viz/Sales_Analysis)**
 
 This project involves analyzing sales data and loyalty points accumulation utilizing Python and MS SQL. It encompasses an Exploratory Data Analysis (EDA) phase to extract insights and a dynamic Excel dashboard for visualizing the findings.
