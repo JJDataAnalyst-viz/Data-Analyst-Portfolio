@@ -118,6 +118,8 @@ My data analyst portfolio highlights my expertise, projects, and insights, demon
   - Share: Presenting analysis results to stakeholders through visualizations and reports for easy understanding. Used tool:
     <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" width="40">
  ##
+ https://www.researchgate.net/publication/26568624_Building_Predictive_Models_in_R_Using_the_caret_Package
+ https://www.machinelearningplus.com/machine-learning/caret-package/
  ##
 - Cyclistic bike-share analysis (Planned 04.2024)
 ##
